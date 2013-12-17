@@ -80,5 +80,5 @@ Pinteresting::Application.configure do
   
   #required for heroku
   #note to set this to actual hostname
-  config.action_mailer.default_url_options = { :host => 'http://still-peak-5126.herokuapp.com/' }
+  config.action_mailer.default_url_options = { :host => 'http://dwr-pinteresting.herokuapp.com/' }
 end
