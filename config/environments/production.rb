@@ -93,9 +93,6 @@ config.paperclip_defaults = {
   }
 }
 
-  config.omniauth :facebook, ENV["FACEBOOK_APP_ID"], ENV["FACEBOOK_SECRET"]
-
-
   # ENV['FACEBOOK_APP_ID'] = "592155240878933"
   # ENV['FACEBOOK_SECRET'] = "3d15900015c34e52546cdd970fa6cb0f"
 end
